@@ -11,14 +11,22 @@ Conect-se facilmente a seus dados, modele-os e visualize-os, criando relatórios
 
 📂 Organização:
 
-| Sumário       | Informações                                |
-| ------------- | ------------------------------------------ |
-| Base de Dados | Planilha com os dados para os dashboards   |
-| Dashbords     | Dashboards construídos                     |
-| Imagens       | Todas as imagens utilizadas                |
-| Projetos      | Projetos finais do Power BI extensão .pbix |
+| Sumário                                                      | Informações                                |
+| ------------------------------------------------------------ | ------------------------------------------ |
+| [Base   de Dados](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Base de Dados) | Planilha com os dados para os dashboards   |
+| [Dashbords](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Dashboard) | Dashbords contruídos                       |
+| [Imagens](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Imagens) | Todas as imagens utilizadas                |
+| [Projetos](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Projeto) | Projetos finais do Power BI extensão .pbix |
 
-<h5 align="left"> Fontes Utilizadas: </h5>
+<h5 align="left"> 📱 Projetos: </h5>
+
+<img src="https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Base%20de%20Dados"/>
+
+<img src="https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Dashboard/Vendas.png"/>
+
+<img src="https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Dashboard/VendasF01.png"/>
+
+<h5 align="left"> ⚙️ Fontes Utilizadas: </h5>
 
 - https://powerbi.microsoft.com/pt-br/what-is-power-bi/ 
 
