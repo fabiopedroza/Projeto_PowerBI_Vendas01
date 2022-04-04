@@ -20,11 +20,11 @@ Conect-se facilmente a seus dados, modele-os e visualize-os, criando relatórios
 
 <h5 align="left"> 📱 Projetos: </h5>
 
-<img src="https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Base%20de%20Dados"/>
-
-<img src="https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Dashboard/Vendas.png"/>
-
-<img src="https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Dashboard/VendasF01.png"/>
+![Imagem0](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/blob/master/Dashboard/Vendas.png)
+<br>
+![Imagem1](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/blob/master/Dashboard/VendasF01.png)
+<br>
+![Imagem2](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/blob/master/Dashboard/VendasF02.png)
 
 <h5 align="left"> ⚙️ Fontes Utilizadas: </h5>
 
