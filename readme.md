@@ -13,7 +13,7 @@ Conect-se facilmente a seus dados, modele-os e visualize-os, criando relatórios
 
 | Sumário                                                      | Informações                                |
 | ------------------------------------------------------------ | ------------------------------------------ |
-| [BasedeDados](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Base de Dados) | Planilha com os dados para os dashboards   |
+| [Base   de Dados](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Base de Dados) | Planilha com os dados para os dashboards   |
 | [Dashbords](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Dashboard) | Dashbords contruídos                       |
 | [Imagens](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Imagens) | Todas as imagens utilizadas                |
 | [Projetos](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Projeto) | Projetos finais do Power BI extensão .pbix |
