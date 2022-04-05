@@ -55,7 +55,5 @@ Conect-se facilmente a seus dados, modele-os e visualize-os, criando relatórios
 
 - https://powerbi.microsoft.com/pt-br/what-is-power-bi/ 
 
-  
-
 <h5 ajusted="left" > Curso: </h5>
 
