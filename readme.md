@@ -18,14 +18,17 @@ Conect-se facilmente a seus dados, modele-os e visualize-os, criando relatórios
 | [Imagens](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Imagens) | Todas as imagens utilizadas                |
 | [Projetos](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/tree/master/Projeto) | Projetos finais do Power BI extensão .pbix |
 
+
 <h5 align="left"> 📱 Projetos: </h5>
 
 ![Imagem0](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/blob/master/Dashboard/Vendas.png)
 <br />
 <br />
+
 ![Imagem1](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/blob/master/Dashboard/VendasF01.png)
 <br />
 <br />
+
 ![Imagem2](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/blob/master/Dashboard/VendasF02.png)
 
 <br />
