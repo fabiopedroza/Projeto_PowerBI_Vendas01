@@ -32,7 +32,7 @@ Conect-se facilmente a seus dados, modele-os e visualize-os, criando relatórios
 
 <h5 align="left"> 🔑 Dicas: </h5>
 
-<p align="justify"> 1. Remove Linhas em branco: Verificar se todas as colunas estão com null, senão tem que substituir o conteúdo para branco. Acesse a opção transformar e depois no ícones __substituir valores__.</p> 
+<p align="justify"> 1. Remove Linhas em branco: Verificar se todas as colunas estão com null, senão tem que substituir o conteúdo para branco. Acesse a opção transformar e depois no ícones substituir valores.</p> 
 
 https://powerbi.microsoft.com/pt-br/what-is-power-bi/ 
 
